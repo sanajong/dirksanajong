@@ -3,4 +3,4 @@ baseURL = "/"
 languageCode = "nl-nl"
 title = "Dirk San-A-Jong | RR Kandidaat"
 
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "://github.com/theNewDynamic/gohugo-theme-ananke"
